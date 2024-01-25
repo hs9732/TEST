@@ -1,4 +1,1 @@
-git TEST 오픈 소스 Hello
-
-
-데이터 저장
+Github 사용하는 방법을 공부중입니다.
